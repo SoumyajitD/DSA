@@ -1,0 +1,5 @@
+arr = input()   
+l = list(map(int,arr.split(' ')))
+a=l[::-1]
+
+print(
